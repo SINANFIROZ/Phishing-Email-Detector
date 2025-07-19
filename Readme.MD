@@ -112,6 +112,19 @@ If you want to retrain the model:
 - **Test Data**: ~35,000 emails (20% split)
 - **Evaluation**: Accuracy, Precision, Recall, F1-Score
 
+## ☕ Support the Project
+
+If this project helped you or you found it useful, consider buying me a coffee! Your support helps maintain and improve this project.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sinanfiroz)
+
+**Other ways to support:**
+- ⭐ Star this repository
+- 🍴 Fork and contribute 
+- 📢 Share with others
+- 🐛 Report issues and bugs
+
+
 ## 🎯 How It Works
 
 ### 1. Text Preprocessing
